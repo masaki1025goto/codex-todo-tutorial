@@ -56,7 +56,7 @@ function App() {
         <header className="app-header">
           <div>
             <p className="eyebrow">Today&apos;s Focus</p>
-            <h1>Todo</h1>
+            <h1>Todo@MG</h1>
           </div>
           <div className="completion-badge">
             <span>{completionRate}%</span>
